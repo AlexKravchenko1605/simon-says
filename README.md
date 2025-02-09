@@ -1,6 +1,7 @@
 # SIMON SAYS GAME
 
 Technology stack
+
 🔧 HTML
 
 🔧 CSS
