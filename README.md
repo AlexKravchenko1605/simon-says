@@ -1,2 +1,10 @@
-This project create at RSSCHOOL. 
-Heare i used JavaScript for create everything: html-elements, page structure, differents levels and in general - logic.
+# SIMON SAYS GAME
+
+Technology stack
+🔧 HTML
+
+🔧 CSS
+
+🔧 Javascript
+
+Javascript has been used to create elements, pages, game logic.
